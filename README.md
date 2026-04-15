@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yPdgB1Wl3Ej4wsQA) 
 
-[![Tiktok](https://img.shields.io/badge/Tiktok-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yPdgB1Wl3Ej4wsQA) 
+[![Tiktok](https://img.shields.io/badge/Tiktok-%23FF0000.svg?logo=Tiktok&logoColor=white)](https://youtube.com/@yPdgB1Wl3Ej4wsQA) 
 
 
 # 💻 Tech Stack:

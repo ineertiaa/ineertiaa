@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yPdgB1Wl3Ej4wsQA) 
 
-[![Tiktok](https://img.shields.io/badge/Tiktok-%23FF0000.svg?logo=Tiktok&logoColor=purple)](https://www.tiktok.com/@ryantheslopdeveloper?_r=1&_t=ZN-95ZIm6dod1S) 
+[![Tiktok](https://img.shields.io/badge/Tiktok-%23800080.svg?logo=Tiktok&logoColor=white)](https://www.tiktok.com/@ryantheslopdeveloper?_r=1&_t=ZN-95ZIm6dod1S) 
 
 
 # 💻 Tech Stack:

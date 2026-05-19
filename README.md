@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥 Founder of Visual Buffer Games - VR/XR/HVR Game Studio<br>🎓 Aspiring Computer Science Student + Game Developer<br>🔍 Discovered programming at 8 years old - turned it into a passion and hobby<br>📟 Started using Unity Engine and C# at 14 years old<br>
+🖥 Open XR/Hurricane VR/BIMOS Dev<br>🎓 Aspiring Computer Science Student + Game Developer<br>🔍 Discovered programming at 8 years old - turned it into a passion and hobby<br>📟 Started using Unity Engine and C# at 14 years old<br>
 
 
 ## 🌐 Socials:

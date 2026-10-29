@@ -1,6 +1,6 @@
 ## A young developer pushing for open source to be the norm.
 
 # What I like to work with:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 50; height: 50;">
 
 ![](https://streak-stats.demolab.com/?user=ineertiaa&theme=dark&hide_border=false)<br/>
